@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">constraintlayoutmovie</string>
+    <string name="app_name">Constraint Layout</string>
     <string name="headerImage">Header Image</string>
     <string name="thor_ragnarok">Thor Ragnarok</string>
     <string name="information">TextView</string>
+    <string name="Alugar">alugar por R$ 2,50</string>
+    <string name="Comprar">Comprar por R$ 5,99</string>
 </resources>
